@@ -5,3 +5,5 @@ CART_HOST: cart.umamaheswarreddy.fun
 USER_HOST: user.umamaheswarreddy.fun
 MYSQL_HOST: mysql.umamaheswarreddy.fun
 RABBITMQ_HOST: rabbitmq.umamaheswarreddy.fun
+SHIPPING_HOST: shipping.umamaheswarreddy.fun
+PAYMENT_HOST: payment.umamaheswarreddy.fun
