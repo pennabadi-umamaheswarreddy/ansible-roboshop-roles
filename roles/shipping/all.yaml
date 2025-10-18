@@ -1,5 +1,0 @@
-MONGODB_HOST: mongodb.umamaheswarreddy.fun
-REDIS_HOST: redis.umamaheswarreddy.fun
-CATALOGUE_HOST: catalogue.umamaheswarreddy.fun
-CART_HOST: cart.umamaheswarreddy.fun
-MYSQL_HOST: mysql.umamaheswarreddy.fun
