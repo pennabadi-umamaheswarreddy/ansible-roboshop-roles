@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.umamaheswarreddy.fun
 REDIS_HOST: redis.umamaheswarreddy.fun
+CATALOGUE_HOST: catalogue.umamaheswarreddy.fun
